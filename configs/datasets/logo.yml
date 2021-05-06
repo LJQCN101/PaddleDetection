@@ -1,0 +1,23 @@
+metric: VOC
+map_type: 11point
+num_classes: 1
+
+TrainDataset:
+  !LogoDataSet
+    dataset_dir: ./logo_train_data
+    anno_path: eval_logo.txt
+    label_list: label_list.txt
+    data_fields: ['image', 'gt_bbox', 'gt_class', 'difficult']
+
+EvalDataset:
+  !LogoDataSet
+    dataset_dir: ./logo_train_data
+    anno_path: eval_logo.txt
+    label_list: label_list.txt
+    data_fields: ['image', 'gt_bbox', 'gt_class', 'difficult']
+
+TestDataset:
+  !ImageFolder
+    anno_path: eval_logo.txt
+    label_list: label_list.txt
+    dataset_dir: ./logo_train_data

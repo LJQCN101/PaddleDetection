@@ -16,8 +16,10 @@ from . import coco
 from . import voc
 from . import widerface
 from . import category
+from . import logo
 
 from .coco import *
 from .voc import *
 from .widerface import *
 from .category import *
+from .logo import *

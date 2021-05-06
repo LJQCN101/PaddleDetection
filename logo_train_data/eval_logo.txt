@@ -1,0 +1,117 @@
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000000.jpg,918,East Japan Railway,415,10,654,167
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000001.jpg,1841,Legal & General,628,18,782,172
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000002.jpg,2633,ScienceLogic,1015,18,1217,220
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000003.jpg,860,Digital China,887,18,1149,280
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000004.jpg,3338,Zalora,356,11,456,111
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000005.jpg,615,Cigna,498,16,603,121
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000006.jpg,2890,Tapestry,572,10,816,254
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000007.jpg,478,Capgemini,541,13,711,183
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000008.jpg,946,Educational Testing Service,1301,10,1588,297
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000009.jpg,3276,Works Applications,259,12,423,176
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000010.jpg,1103,ForeverCosmeticsHKLimited,1193,10,1792,165
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000011.jpg,3185,VMA Group,573,15,807,249
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000012.jpg,1079,First Page Digital,153,10,286,143
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000013.jpg,2140,Nan Fung Group,1267,11,1511,255
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000014.jpg,1636,iTutorGroup,902,11,1185,294
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000015.jpg,1549,iMusicTech,156,19,257,120
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000016.jpg,987,EPAM,402,14,635,247
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000017.jpg,327,BDO USA,1296,11,1434,149
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000018.jpg,2340,Palo IT,778,13,940,175
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000019.jpg,2246,O'Melveny & Myers,858,12,1122,276
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000020.jpg,2273,ONC Lawyers,127,15,238,126
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000021.jpg,235,ASM Pacific Technology,1229,16,1476,263
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000022.jpg,3239,WeWork,20,19,140,139
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000023.jpg,132,Altitude Labs,652,11,808,167
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000024.jpg,2466,Pruvit Ventures,599,15,865,281
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000025.jpg,2698,Shun Hing Group,386,20,634,268
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000026.jpg,883,Donnelley Financial Solutions (DFIN),635,11,908,284
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000027.jpg,978,English Excel School,1387,11,1569,193
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000028.jpg,3260,Wisers,1372,20,1533,181
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000029.jpg,1342,Hemmersbach,644,16,907,279
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000030.jpg,196,April Assurances,1499,18,1770,289
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000031.jpg,2071,Mitsubishi Power,143,18,318,193
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000032.jpg,606,Christie's,106,19,292,205
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000033.jpg,2418,Plum Food,857,14,1097,254
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000034.jpg,324,BCD Travel,522,13,653,144
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000035.jpg,2469,Ptarmigan Media,1546,20,1832,306
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000036.jpg,2239,Nu Skin,499,16,601,118
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000037.jpg,704,Connor,459,16,723,280
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000038.jpg,1807,Lalamove,79,14,375,310
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000039.jpg,103,Alexander Wang,507,13,657,163
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000040.jpg,1846,LemonKingCompanyLimited,1292,19,1657,252
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000041.jpg,1894,LoveShareBeauty,504,11,1071,178
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000042.jpg,1912,LWK&Partners,537,10,760,233
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000043.jpg,808,DCHFoodMart,899,10,1244,81
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000044.jpg,1834,Lectra,778,16,980,218
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000045.jpg,2485,PwC,930,10,1182,262
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000046.jpg,3103,UNESCO,564,18,690,144
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000047.jpg,1140,Fuji Xerox,1148,20,1435,307
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000048.jpg,1405,Hong Kong and China Gas,402,16,554,168
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000049.jpg,3319,YKK,140,11,297,168
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000050.jpg,1062,Fidelity International,1220,18,1511,312
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000051.jpg,357,Bigos Management,391,10,539,156
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000052.jpg,2431,PPD,1106,10,1312,216
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000053.jpg,1734,Keller Williams,1218,12,1454,248
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000054.jpg,49,Adipster,290,12,392,114
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000055.jpg,2357,Paul Hastings,76,13,279,216
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000056.jpg,1820,Laserfiche,243,11,512,280
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000057.jpg,885,DoubleHDevelopmentLimited,662,17,1112,150
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000058.jpg,1276,GTI,200,19,305,124
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000059.jpg,1226,Goldin Group (Hong Kong),613,18,779,184
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000060.jpg,1554,Indigo Living,235,15,452,232
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000061.jpg,2660,Self Opportunity,836,10,1000,174
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000062.jpg,2271,Omniture,334,12,493,171
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000063.jpg,2760,Sony Mobile Communications,1078,12,1193,127
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000064.jpg,529,CFA Institute,1118,20,1358,260
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000065.jpg,460,Cal-Comp Electronics,340,17,443,120
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000066.jpg,383,BNI,8,14,186,190
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000067.jpg,2779,SpeedCast,827,11,994,178
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000068.jpg,3348,Zimmer Biomet,756,10,862,116
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000069.jpg,340,Benoy,1317,19,1550,255
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000070.jpg,2886,Talent2,994,19,1293,318
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000071.jpg,1611,ION Group,299,15,570,286
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000072.jpg,264,Automated Systems Holdings,457,18,641,202
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000073.jpg,1461,Hopewell Holdings,699,10,819,130
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000074.jpg,1273,Grundfos,674,15,966,307
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000075.jpg,2049,Miki Travel,696,11,950,262
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000076.jpg,308,Bank of Taiwan,1239,13,1360,134
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000077.jpg,1896,LoyalGainGroupLimited,805,14,1452,270
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000078.jpg,2753,SOGO,1124,16,1334,226
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000079.jpg,2497,Quandoo,880,12,1014,146
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000080.jpg,637,City University of Hong Kong,801,10,904,111
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000081.jpg,2271,Omniture,785,15,996,226
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000082.jpg,2666,Sequoia Capital,1413,17,1630,234
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000083.jpg,1045,Fairmont Hotels & Resorts,219,18,422,221
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000084.jpg,1638,ITW,475,18,633,176
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000085.jpg,1481,HSBC Holdings,547,19,669,141
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000086.jpg,2331,Pacific Prime,816,19,934,137
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000087.jpg,1806,Lagardère,842,15,1008,179
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000088.jpg,2801,Stan Group,1124,14,1226,116
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000089.jpg,657,CMA CGM,1218,11,1447,240
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000090.jpg,1244,Grameen Foundation,422,13,676,267
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000091.jpg,1610,Invivogen,1345,10,1450,115
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000092.jpg,2776,Spaceship,793,16,895,118
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000093.jpg,83,Ahsay,1142,17,1248,123
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000094.jpg,1103,ForeverCosmeticsHKLimited,287,13,800,146
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000095.jpg,3298,Xerox,619,19,741,141
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000096.jpg,722,Cosmo,220,15,501,296
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000097.jpg,2843,Sumitomo Mitsui Finance and Leasing,160,15,277,132
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000098.jpg,1561,Infinite Financial Solutions,1157,15,1403,261
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000099.jpg,728,Course Hero,413,20,551,158
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000100.jpg,736,CPA Global,1067,12,1210,155
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000101.jpg,1960,Marlox Group,839,20,1069,250
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000102.jpg,2546,RGP,96,13,300,217
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000103.jpg,2436,Premia Partners,385,20,655,290
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000104.jpg,3322,YOOX NET-A-PORTER GROUP,325,11,458,144
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000105.jpg,1213,Global Executive Consultant,1078,14,1374,310
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000106.jpg,328,BEA,436,18,588,170
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000107.jpg,744,CreditEase,695,18,802,125
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000108.jpg,567,China Life Insurance,463,16,641,194
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000109.jpg,1589,Interactive Data,1055,15,1227,187
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000110.jpg,2759,Sonepar USA,399,16,548,165
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000111.jpg,1829,Le Meridien,171,15,462,306
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000112.jpg,1729,KCL & Partners,912,12,1096,196
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000113.jpg,1438,Hong Kong Monetary Authority,226,19,515,308
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000114.jpg,94,Airwallex,880,11,1127,258
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000115.jpg,2863,SWIFT,379,11,520,152
+D:/projects/text_renderer/example_data/output/logo_corpus/images/000000116.jpg,1088,Fleet Management,901,20,1082,201
